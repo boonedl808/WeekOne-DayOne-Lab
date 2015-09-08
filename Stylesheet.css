@@ -1,4 +1,26 @@
-h1 {
-	font-size: 42px;	
-	text-orientation: centered;
+.nav {
+	color: black;
+	position: page;
+	font-size: 20px;
+	padding-top: 10px;
+	padding-bottom: 18px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-transform: uppercase;
+	background-color: lightgray;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.nav ul {
+	display: inline;
+	position: center;
+}
+
+.jumbotron .container {
+	position: center;
+}
+
+.about p {
+	position: center;
+	float: left;
 }
